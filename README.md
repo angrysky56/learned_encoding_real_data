@@ -21,6 +21,8 @@ https://github.com/MikeyBeez/learned-encoding-experiment
 - **Status**: 🔬 **THEORETICAL** - requires advanced integration
 - **Next**: ELCS + LangExtract enhanced architecture development
 
+https://github.com/angrysky56/evolutionary-layering-in-complex-systems-mcp
+
 ---
 
 ## 📊 Current Validation Status
