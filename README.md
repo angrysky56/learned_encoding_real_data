@@ -23,6 +23,8 @@ https://github.com/MikeyBeez/learned-encoding-experiment
 
 https://github.com/angrysky56/evolutionary-layering-in-complex-systems-mcp
 
+https://github.com/google/langextract
+
 ---
 
 ## 📊 Current Validation Status
